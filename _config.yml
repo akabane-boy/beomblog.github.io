@@ -1,0 +1,14 @@
+title: Beom Blog
+description: A blog written by kernel newbie!
+baseurl: ""
+url: ""
+theme: minima
+
+minima:
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/akabane-boy"
+
+author: Beom-Soo Kim
+email: "kbeom00@gmail.com"
