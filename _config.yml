@@ -3,10 +3,7 @@ description: A blog written by kernel newbie!
 baseurl: ""
 url: ""
 
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: jekyll/minima
+theme: minima
 
 minima:
   social_links:
